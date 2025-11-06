@@ -56,9 +56,3 @@ The model was trained for 5 epochs, and the final performance on the validation 
 
 The model demonstrated its effectiveness by correctly classifying custom images not present in the original dataset.
 
-
----
-
-```
-
----
